@@ -1,6 +1,27 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+struct Queue{
+	int vertex[100];
+	int pos;
+};
+void enqueue(struct Queue* q,int v){
+	q->vertex[++q->pos] = v;
+}
+int dequeue(struct Queue* q){
+	return q->vertex[q->pos--];
+}
+int isQueueEmpty(struct Queue* q){
+	if (q->pos == -1)	return 1;
+	else return 0;
+}
+int isQueueFull(struct Queue* q){
+	if(q->pos == 100) return 1;
+	else return 0;
+}
+initQueue(struct Queue* q){
+	q->pos = -1;
+}
 
 struct list_edges{
 	struct Edge* edge_node;
@@ -11,7 +32,7 @@ struct list_edges{
 struct Vertex{
 	int v;
 	int flag;
-	int pred;
+	int visited;
 	struct list_edges* adj_list;
 };
 
@@ -23,9 +44,11 @@ struct Edge{
 
 void printEdge(struct Edge*);
 void print_adj_list(struct list_edges*);
+
 struct Graph{
-struct	Vertex** v_list;
+	struct	Vertex** v_list;
 	int E,V;
+	int start;
 };
 
 
@@ -55,7 +78,7 @@ struct Vertex* makeVertex(int v){
 	
 	vertex->v = v;
 	vertex->flag = 0;
-	vertex->pred = -1;
+	vertex->visited  = 0;
 	return vertex;
 }
 
@@ -69,6 +92,9 @@ struct Graph* makeGraph(){
 	scanf("%d",&g->E);
 	printf("\nnum E:%d",g->E);
 	
+	printf("\nEnter the start vertex");
+	scanf("%d",&g->start);
+
 	int i =0, to=0, from=0, start=0;
 	
 	g->v_list = (struct Vertex**)malloc(sizeof(struct Vertex*)*(g->V+1));
@@ -89,13 +115,33 @@ struct Graph* makeGraph(){
 		printf("\n to vertex:%d",to);		
 		
 		struct Edge* e = makeEdge(g->v_list[from],g->v_list[to]);
-		struct Edge* e2 = makeEdge(g->v_list[to],g->v_list[from]);
 		/* add the edge to the adj_list */
 		/* in undirected graph, every vertex has its own edge */
 		g->v_list[from]->adj_list = add_edge(e,g->v_list[from]->adj_list);
 		//g->v_list[to]->adj_list = add_edge(e2,g->v_list[to]->adj_list);
 	}
 	return g;
+}
+
+void bfs(struct Graph* g){
+	struct Queue* q= (struct Queue*)malloc(sizeof(struct Queue));
+	initQueue(q);
+	int i,v;
+	enqueue(q,g->start);
+	while(!isQueueEmpty(q)){
+		i = dequeue(q);
+		printf("\n%d",g->v_list[i]->v);
+		struct list_edges *list = g->v_list[i]->adj_list;
+		while(list!= NULL){
+			if(list->edge_node->to->visited == 0)
+			{	
+				enqueue(q,list->edge_node->to->v);
+				list->edge_node->to->visited =1;
+			}
+			list=list->next;
+		}
+	}
+	free(q);
 }
 
 void print_adj_list(struct list_edges* list){
@@ -148,5 +194,7 @@ void main(){
 	struct Graph* g;
 	g = makeGraph();
 	printGraph(g);
+	printf("\n calling bfs");
+	bfs(g);
 	freeGraph(g);
 }
