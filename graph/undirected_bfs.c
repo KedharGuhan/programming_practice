@@ -140,8 +140,8 @@ void bfs(struct Graph* g){
 	g->v_list[g->start]->cost = 0;
 	while(!isQueueEmpty(q)){
 		i = dequeue(q);
-		if(i!=g->start)
-			printf("%d ",g->v_list[i]->cost);
+	//	if(i!=g->start)
+	//		printf("%d ",g->v_list[i]->cost);
 		struct list_edges *list = g->v_list[i]->adj_list;
 		while(list!= NULL){
 			to = list->edge_node->to;
@@ -155,8 +155,12 @@ void bfs(struct Graph* g){
 		}
 	}
 	for(i =1;i <= g->V;i++){
+		if(i != g->start){
 		if(g->v_list[i]->visited == 0)
 			printf("-1 ");
+		else 
+			printf("%d ",g->v_list[i]->cost);
+	}
 	}
 	free(q);
 }
