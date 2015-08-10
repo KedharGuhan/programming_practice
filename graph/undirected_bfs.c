@@ -19,7 +19,7 @@ int isQueueFull(struct Queue* q){
 	if(q->pos == 100) return 1;
 	else return 0;
 }
-initQueue(struct Queue* q){
+void initQueue(struct Queue* q){
 	q->pos = -1;
 }
 
@@ -126,7 +126,8 @@ void bfs(struct Graph* g){
 	g->v_list[g->start]->cost = 0;
 	while(!isQueueEmpty(q)){
 		i = dequeue(q);
-		printf("\n%d",g->v_list[i]->v);
+		if(i!=g->start)
+			printf("%d ",g->v_list[i]->cost);
 		struct list_edges *list = g->v_list[i]->adj_list;
 		while(list!= NULL){
 			to = list->edge_node->to;
@@ -134,10 +135,14 @@ void bfs(struct Graph* g){
 			{	
 				enqueue(q,to->v);
 				to->visited =1;
-				to->cost = to->cost  + g->v_list[i]->cost;
+				to->cost = list->edge_node->cost  + g->v_list[i]->cost;
 			}
 			list=list->next;
 		}
+	}
+	for(i =1;i <= g->V;i++){
+		if(g->v_list[i]->visited == 0)
+			printf("-1 ");
 	}
 	free(q);
 }
@@ -195,8 +200,8 @@ void main(){
 	scanf("%d",&numT);
 	for(i =0;i<numT;i++){
 	g = makeGraph();
-	printGraph(g);
-	printf("\n calling bfs");
+//	printGraph(g);
+//	printf("calling bfs");
 	bfs(g);
 	freeGraph(g);
 	}
