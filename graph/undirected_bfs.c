@@ -45,7 +45,7 @@ struct Edge{
 
 void printEdge(struct Edge*);
 void print_adj_list(struct list_edges*);
-
+int findEdge(struct Edge*, struct list_edges*);
 struct Graph{
 	struct	Vertex** v_list;
 	int E,V;
@@ -60,10 +60,22 @@ struct list_edges* add_edge(struct Edge* e, struct list_edges* ptr){
 		ptr->edge_node = e;
 		return ptr;
 	}
+	int x = findEdge(e,ptr);
 	struct list_edges* e_node = malloc(sizeof(struct list_edges));
 	e_node->next = ptr;
 	e_node->edge_node = e;
 	return e_node;
+}
+int findEdge(struct Edge* e, struct list_edges* ptr){
+	struct list_edges* list = ptr;
+	struct Edge* cmp;
+	while(list!= NULL){
+		cmp = list->edge_node;
+		if((cmp->to->v == e->to->v) &&(cmp->from->v == e->from->v))
+			return 1;	
+		list = list->next;
+	}
+	return 0;
 }
 struct Edge* makeEdge(struct Vertex* from, struct Vertex* to){
 	struct Edge* e = (struct Edge*)malloc(sizeof(struct Edge));
@@ -194,7 +206,7 @@ void freeGraph(struct Graph* g){
 	
 }
 
-void main(){
+int main(){
 	struct Graph* g;
 	int numT, i;
 	scanf("%d",&numT);
@@ -205,4 +217,5 @@ void main(){
 	bfs(g);
 	freeGraph(g);
 	}
+	return 0;
 }
