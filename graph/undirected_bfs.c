@@ -61,10 +61,12 @@ struct list_edges* add_edge(struct Edge* e, struct list_edges* ptr){
 		return ptr;
 	}
 	int x = findEdge(e,ptr);
+	if(x ==0) {
 	struct list_edges* e_node = malloc(sizeof(struct list_edges));
 	e_node->next = ptr;
 	e_node->edge_node = e;
-	return e_node;
+	return e_node;}
+	return ptr;
 }
 int findEdge(struct Edge* e, struct list_edges* ptr){
 	struct list_edges* list = ptr;
