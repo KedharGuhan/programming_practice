@@ -33,6 +33,7 @@ struct Vertex{
 	int v;
 	int flag;
 	int visited;
+	int cost;
 	struct list_edges* adj_list;
 };
 
@@ -95,6 +96,8 @@ struct Graph* makeGraph(){
 	for(i = 1;i<=g->V;i++){
 		g->v_list[i] = (struct Vertex*) malloc(sizeof(struct Vertex));
 		g->v_list[i]->v  = i;
+		g->v_list[i]->cost = 0;
+		g->v_list[i]->visited = 0;
 	}
 	
 	for( i =1;i<=g->E;i++){
@@ -103,7 +106,7 @@ struct Graph* makeGraph(){
 		scanf("%d",&to);
 		
 		struct Edge* e = makeEdge(g->v_list[from],g->v_list[to]);
-		struct Edge* e2 = makeEdge(g->vlist[to],g->v_list[from]);
+		struct Edge* e2 = makeEdge(g->v_list[to],g->v_list[from]);
 		/* add the edge to the adj_list */
 		/* in undirected graph, every vertex has its own edge */
 		g->v_list[from]->adj_list = add_edge(e,g->v_list[from]->adj_list);
@@ -117,10 +120,10 @@ void bfs(struct Graph* g){
 	struct Queue* q= (struct Queue*)malloc(sizeof(struct Queue));
 	initQueue(q);
 	int i,v;
-	Vertex* to;
+	struct Vertex* to;
 	enqueue(q,g->start);
-	g->v_list[start]->visited = 0;
-	g->v_list[start]->cost = 0;
+	g->v_list[g->start]->visited = 1;
+	g->v_list[g->start]->cost = 0;
 	while(!isQueueEmpty(q)){
 		i = dequeue(q);
 		printf("\n%d",g->v_list[i]->v);
@@ -167,6 +170,7 @@ void printGraph(struct Graph* g){
 void free_list_contents(struct list_edges *ptr){
 	struct list_edges *node = ptr;
 	while(node!=NULL){
+
 		ptr = ptr->next;
 		free(node->edge_node);
 		free(node);
@@ -187,9 +191,13 @@ void freeGraph(struct Graph* g){
 
 void main(){
 	struct Graph* g;
+	int numT, i;
+	scanf("%d",&numT);
+	for(i =0;i<numT;i++){
 	g = makeGraph();
 	printGraph(g);
 	printf("\n calling bfs");
 	bfs(g);
 	freeGraph(g);
+	}
 }
