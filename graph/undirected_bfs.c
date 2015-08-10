@@ -116,15 +116,16 @@ struct Graph* makeGraph(){
 	
 	for( i =1;i<=g->E;i++){
 		scanf("%d", &from);
-		
 		scanf("%d",&to);
 		
-		struct Edge* e = makeEdge(g->v_list[from],g->v_list[to]);
-		struct Edge* e2 = makeEdge(g->v_list[to],g->v_list[from]);
+		if(from<=g->V && to<=g->V && from >=1 && to>=1){
+			struct Edge* e = makeEdge(g->v_list[from],g->v_list[to]);
+			struct Edge* e2 = makeEdge(g->v_list[to],g->v_list[from]);
 		/* add the edge to the adj_list */
 		/* in undirected graph, every vertex has its own edge */
-		g->v_list[from]->adj_list = add_edge(e,g->v_list[from]->adj_list);
-		g->v_list[to]->adj_list = add_edge(e2,g->v_list[to]->adj_list);
+			g->v_list[from]->adj_list = add_edge(e,g->v_list[from]->adj_list);
+			g->v_list[to]->adj_list = add_edge(e2,g->v_list[to]->adj_list);
+		}
 	}
 	scanf("%d",&g->start);
 	return g;
