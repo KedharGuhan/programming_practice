@@ -1,0 +1,1662 @@
+
+coventry
+museum
+shopping
+transport
+friendly
+shops
+family
+restaurant
+location
+adding new to map_8,0_ : 20
+adding new to map_10,2_ : 20
+adding new to map_0,0_ : 20
+adding new to map_17,3_ : 20
+adding new to map_7,0_ : 30
+adding new to map_2,0_ : 30
+adding new to map_7,6_ : 20
+adding new to map_1,1_ : 30
+adding new to map_7,8_ : 20
+adding new to map_12,0_ : 30
+adding new to map_5,1_ : 30
+adding new to map_11,0_ : 20
+adding new to map_8,7_ : 20
+findstr already exists_8,7_ :20
+adding points: 30
+adding new to map_8,7_ : 50
+adding new to map_8,5_ : 30
+adding new to map_13,0_ : 20
+adding new to map_16,0_ : 20
+adding new to map_17,1_ : 30
+adding new to map_0,2_ : 30
+adding new to map_5,2_ : 20
+findstr already exists_12,0_ :30
+adding points: 20
+adding new to map_12,0_ : 50
+adding new to map_9,4_ : 30
+adding new to map_0,5_ : 30
+adding new to map_2,7_ : 30
+adding new to map_13,1_ : 20
+adding new to map_6,0_ : 20
+adding new to map_0,1_ : 30
+adding new to map_18,6_ : 20
+adding new to map_1,0_ : 20
+adding new to map_9,0_ : 30
+adding new to map_15,1_ : 20
+findstr already exists_11,0_ :20
+adding points: 30
+adding new to map_11,0_ : 50
+adding new to map_10,0_ : 20
+adding new to map_0,6_ : 30
+adding new to map_10,1_ : 20
+adding new to map_15,0_ : 20
+adding new to map_16,3_ : 20
+adding new to map_18,7_ : 30
+findstr already exists_1,0_ :20
+adding points: 30
+adding new to map_1,0_ : 50
+adding new to map_16,2_ : 30
+findstr already exists_13,1_ :20
+adding points: 20
+adding new to map_13,1_ : 40
+adding new to map_17,0_ : 20
+adding new to map_7,1_ : 30
+adding new to map_3,0_ : 20
+findstr already exists_10,1_ :20
+adding points: 20
+adding new to map_10,1_ : 40
+adding new to map_8,6_ : 20
+findstr already exists_3,0_ :20
+adding points: 30
+adding new to map_3,0_ : 50
+adding new to map_4,0_ : 30
+findstr already exists_16,0_ :20
+adding points: 30
+adding new to map_16,0_ : 50
+adding new to map_12,1_ : 30
+adding new to map_16,4_ : 20
+findstr already exists_7,0_ :30
+adding points: 30
+adding new to map_7,0_ : 60
+adding new to map_13,4_ : 20
+findstr already exists_2,0_ :30
+adding points: 30
+adding new to map_2,0_ : 60
+adding new to map_11,8_ : 20
+adding new to map_18,0_ : 20
+findstr already exists_12,1_ :30
+adding points: 30
+adding new to map_12,1_ : 60
+findstr already exists_5,1_ :30
+adding points: 20
+adding new to map_5,1_ : 50
+findstr already exists_18,0_ :20
+adding points: 30
+adding new to map_18,0_ : 50
+findstr already exists_1,0_ :50
+adding points: 30
+adding new to map_1,0_ : 80
+findstr already exists_13,0_ :20
+adding points: 30
+adding new to map_13,0_ : 50
+findstr already exists_11,0_ :50
+adding points: 30
+adding new to map_11,0_ : 80
+findstr already exists_17,0_ :20
+adding points: 20
+adding new to map_17,0_ : 40
+adding new to map_19,0_ : 30
+findstr already exists_13,0_ :50
+adding points: 30
+adding new to map_13,0_ : 80
+findstr already exists_7,0_ :60
+adding points: 30
+adding new to map_7,0_ : 90
+findstr already exists_9,0_ :30
+adding points: 20
+adding new to map_9,0_ : 50
+adding new to map_1,8_ : 20
+adding new to map_7,2_ : 20
+findstr already exists_10,0_ :20
+adding points: 20
+adding new to map_10,0_ : 40
+findstr already exists_7,0_ :90
+adding points: 30
+adding new to map_7,0_ : 120
+findstr already exists_2,0_ :60
+adding points: 20
+adding new to map_2,0_ : 80
+adding new to map_14,7_ : 20
+adding new to map_0,7_ : 20
+adding new to map_12,6_ : 20
+findstr already exists_6,0_ :20
+adding points: 30
+adding new to map_6,0_ : 50
+findstr already exists_8,5_ :30
+adding points: 30
+adding new to map_8,5_ : 60
+findstr already exists_16,0_ :50
+adding points: 20
+adding new to map_16,0_ : 70
+findstr already exists_4,0_ :30
+adding points: 30
+adding new to map_4,0_ : 60
+findstr already exists_8,0_ :20
+adding points: 30
+adding new to map_8,0_ : 50
+findstr already exists_19,0_ :30
+adding points: 20
+adding new to map_19,0_ : 50
+findstr already exists_9,0_ :50
+adding points: 30
+adding new to map_9,0_ : 80
+adding new to map_7,5_ : 30
+findstr already exists_18,0_ :50
+adding points: 30
+adding new to map_18,0_ : 80
+adding new to map_5,0_ : 30
+findstr already exists_3,0_ :50
+adding points: 30
+adding new to map_3,0_ : 80
+adding new to map_15,2_ : 20
+findstr already exists_4,0_ :60
+adding points: 20
+adding new to map_4,0_ : 80
+adding new to map_9,7_ : 30
+findstr already exists_3,0_ :80
+adding points: 20
+adding new to map_3,0_ : 100
+findstr already exists_11,0_ :80
+adding points: 20
+adding new to map_11,0_ : 100
+findstr already exists_13,0_ :80
+adding points: 30
+adding new to map_13,0_ : 110
+findstr already exists_5,0_ :30
+adding points: 30
+adding new to map_5,0_ : 60
+findstr already exists_5,0_ :60
+adding points: 30
+adding new to map_5,0_ : 90
+findstr already exists_12,0_ :50
+adding points: 30
+adding new to map_12,0_ : 80
+findstr already exists_8,0_ :50
+adding points: 20
+adding new to map_8,0_ : 70
+findstr already exists_9,4_ :30
+adding points: 30
+adding new to map_9,4_ : 60
+adding new to map_2,1_ : 20
+adding new to map_11,1_ : 30
+adding new to map_5,6_ : 20
+findstr already exists_9,0_ :80
+adding points: 20
+adding new to map_9,0_ : 100
+adding new to map_16,8_ : 30
+adding new to map_15,6_ : 20
+findstr already exists_4,0_ :80
+adding points: 30
+adding new to map_4,0_ : 110
+adding new to map_15,7_ : 30
+adding new to map_2,2_ : 20
+findstr already exists_1,0_ :80
+adding points: 30
+adding new to map_1,0_ : 110
+adding new to map_14,8_ : 30
+findstr already exists_15,0_ :20
+adding points: 30
+adding new to map_15,0_ : 50
+findstr already exists_15,0_ :50
+adding points: 20
+adding new to map_15,0_ : 70
+findstr already exists_17,0_ :40
+adding points: 20
+adding new to map_17,0_ : 60
+findstr already exists_12,0_ :80
+adding points: 20
+adding new to map_12,0_ : 100
+findstr already exists_18,0_ :80
+adding points: 20
+adding new to map_18,0_ : 100
+adding new to map_14,0_ : 30
+findstr already exists_10,0_ :40
+adding points: 20
+adding new to map_10,0_ : 60
+adding new to map_19,1_ : 30
+findstr already exists_12,0_ :100
+adding points: 30
+adding new to map_12,0_ : 130
+findstr already exists_10,0_ :60
+adding points: 30
+adding new to map_10,0_ : 90
+adding new to map_17,6_ : 20
+findstr already exists_9,4_ :60
+adding points: 30
+adding new to map_9,4_ : 90
+findstr already exists_12,0_ :130
+adding points: 20
+adding new to map_12,0_ : 150
+adding new to map_10,8_ : 20
+findstr already exists_2,0_ :80
+adding points: 20
+adding new to map_2,0_ : 100
+findstr already exists_1,0_ :110
+adding points: 20
+adding new to map_1,0_ : 130
+findstr already exists_16,0_ :70
+adding points: 20
+adding new to map_16,0_ : 90
+adding new to map_19,2_ : 20
+findstr already exists_2,0_ :100
+adding points: 20
+adding new to map_2,0_ : 120
+findstr already exists_5,0_ :90
+adding points: 30
+adding new to map_5,0_ : 120
+adding new to map_14,1_ : 20
+findstr already exists_15,1_ :20
+adding points: 30
+adding new to map_15,1_ : 50
+findstr already exists_7,0_ :120
+adding points: 30
+adding new to map_7,0_ : 150
+adding new to map_13,6_ : 40
+findstr already exists_16,0_ :90
+adding points: 40
+adding new to map_16,0_ : 130
+findstr already exists_2,7_ :30
+adding points: 30
+adding new to map_2,7_ : 60
+findstr already exists_4,0_ :110
+adding points: 30
+adding new to map_4,0_ : 140
+adding new to map_9,1_ : 30
+findstr already exists_14,1_ :20
+adding points: 30
+adding new to map_14,1_ : 50
+findstr already exists_7,2_ :20
+adding points: 40
+adding new to map_7,2_ : 60
+adding new to map_3,7_ : 30
+findstr already exists_15,2_ :20
+adding points: 40
+adding new to map_15,2_ : 60
+adding new to map_11,2_ : 30
+findstr already exists_15,0_ :70
+adding points: 30
+adding new to map_15,0_ : 100
+findstr already exists_11,0_ :100
+adding points: 20
+adding new to map_11,0_ : 120
+adding new to map_17,8_ : 20
+findstr already exists_6,0_ :50
+adding points: 20
+adding new to map_6,0_ : 70
+findstr already exists_8,0_ :70
+adding points: 30
+adding new to map_8,0_ : 100
+findstr already exists_19,0_ :50
+adding points: 30
+adding new to map_19,0_ : 80
+adding new to map_13,7_ : 20
+findstr already exists_9,0_ :100
+adding points: 30
+adding new to map_9,0_ : 130
+adding new to map_6,8_ : 30
+adding new to map_10,4_ : 20
+findstr already exists_13,0_ :110
+adding points: 20
+adding new to map_13,0_ : 130
+adding new to map_11,5_ : 30
+adding new to map_10,7_ : 20
+adding new to map_4,1_ : 20
+findstr already exists_15,0_ :100
+adding points: 30
+adding new to map_15,0_ : 130
+findstr already exists_19,0_ :80
+adding points: 30
+adding new to map_19,0_ : 110
+adding new to map_16,7_ : 40
+findstr already exists_16,0_ :130
+adding points: 30
+adding new to map_16,0_ : 160
+findstr already exists_12,0_ :150
+adding points: 30
+adding new to map_12,0_ : 180
+findstr already exists_13,0_ :130
+adding points: 40
+adding new to map_13,0_ : 170
+findstr already exists_2,1_ :20
+adding points: 40
+adding new to map_2,1_ : 60
+findstr already exists_9,1_ :30
+adding points: 30
+adding new to map_9,1_ : 60
+findstr already exists_12,0_ :180
+adding points: 30
+adding new to map_12,0_ : 210
+findstr already exists_8,0_ :100
+adding points: 30
+adding new to map_8,0_ : 130
+findstr already exists_1,0_ :130
+adding points: 30
+adding new to map_1,0_ : 160
+adding new to map_6,4_ : 30
+findstr already exists_10,0_ :90
+adding points: 30
+adding new to map_10,0_ : 120
+findstr already exists_9,0_ :130
+adding points: 40
+adding new to map_9,0_ : 170
+adding new to map_5,5_ : 40
+findstr already exists_12,0_ :210
+adding points: 30
+adding new to map_12,0_ : 240
+findstr already exists_7,0_ :150
+adding points: 30
+adding new to map_7,0_ : 180
+findstr already exists_14,0_ :30
+adding points: 20
+adding new to map_14,0_ : 50
+findstr already exists_0,1_ :30
+adding points: 30
+adding new to map_0,1_ : 60
+adding new to map_4,7_ : 20
+findstr already exists_5,0_ :120
+adding points: 20
+adding new to map_5,0_ : 140
+findstr already exists_15,0_ :130
+adding points: 20
+adding new to map_15,0_ : 150
+findstr already exists_14,0_ :50
+adding points: 30
+adding new to map_14,0_ : 80
+findstr already exists_13,7_ :20
+adding points: 20
+adding new to map_13,7_ : 40
+adding new to map_19,8_ : 30
+adding new to map_3,1_ : 30
+findstr already exists_2,7_ :60
+adding points: 20
+adding new to map_2,7_ : 80
+findstr already exists_10,1_ :40
+adding points: 20
+adding new to map_10,1_ : 60
+findstr already exists_11,1_ :30
+adding points: 20
+adding new to map_11,1_ : 50
+adding new to map_12,7_ : 30
+findstr already exists_19,0_ :110
+adding points: 30
+adding new to map_19,0_ : 140
+findstr already exists_14,0_ :80
+adding points: 20
+adding new to map_14,0_ : 100
+findstr already exists_13,4_ :20
+adding points: 20
+adding new to map_13,4_ : 40
+findstr already exists_5,0_ :140
+adding points: 30
+adding new to map_5,0_ : 170
+findstr already exists_9,4_ :90
+adding points: 30
+adding new to map_9,4_ : 120
+findstr already exists_3,0_ :100
+adding points: 20
+adding new to map_3,0_ : 120
+findstr already exists_11,8_ :20
+adding points: 30
+adding new to map_11,8_ : 50
+findstr already exists_0,0_ :20
+adding points: 30
+adding new to map_0,0_ : 50
+findstr already exists_14,1_ :50
+adding points: 30
+adding new to map_14,1_ : 80
+findstr already exists_11,1_ :50
+adding points: 20
+adding new to map_11,1_ : 70
+findstr already exists_5,0_ :170
+adding points: 30
+adding new to map_5,0_ : 200
+findstr already exists_6,0_ :70
+adding points: 30
+adding new to map_6,0_ : 100
+findstr already exists_11,0_ :120
+adding points: 20
+adding new to map_11,0_ : 140
+findstr already exists_14,1_ :80
+adding points: 20
+adding new to map_14,1_ : 100
+findstr already exists_6,0_ :100
+adding points: 20
+adding new to map_6,0_ : 120
+findstr already exists_1,1_ :30
+adding points: 20
+adding new to map_1,1_ : 50
+findstr already exists_5,0_ :200
+adding points: 30
+adding new to map_5,0_ : 230
+findstr already exists_15,2_ :60
+adding points: 20
+adding new to map_15,2_ : 80
+findstr already exists_0,2_ :30
+adding points: 20
+adding new to map_0,2_ : 50
+findstr already exists_11,5_ :30
+adding points: 20
+adding new to map_11,5_ : 50
+findstr already exists_3,0_ :120
+adding points: 20
+adding new to map_3,0_ : 140
+adding new to map_11,6_ : 20
+findstr already exists_6,4_ :30
+adding points: 30
+adding new to map_6,4_ : 60
+findstr already exists_19,0_ :140
+adding points: 30
+adding new to map_19,0_ : 170
+findstr already exists_2,0_ :120
+adding points: 30
+adding new to map_2,0_ : 150
+findstr already exists_7,0_ :180
+adding points: 20
+adding new to map_7,0_ : 200
+adding new to map_18,2_ : 20
+findstr already exists_3,0_ :140
+adding points: 30
+adding new to map_3,0_ : 170
+findstr already exists_15,6_ :20
+adding points: 20
+adding new to map_15,6_ : 40
+findstr already exists_14,0_ :100
+adding points: 30
+adding new to map_14,0_ : 130
+adding new to map_9,8_ : 20
+findstr already exists_14,1_ :100
+adding points: 20
+adding new to map_14,1_ : 120
+findstr already exists_8,0_ :130
+adding points: 30
+adding new to map_8,0_ : 160
+findstr already exists_14,0_ :130
+adding points: 30
+adding new to map_14,0_ : 160
+findstr already exists_17,0_ :60
+adding points: 30
+adding new to map_17,0_ : 90
+findstr already exists_2,7_ :80
+adding points: 30
+adding new to map_2,7_ : 110
+findstr already exists_7,1_ :30
+adding points: 30
+adding new to map_7,1_ : 60
+findstr already exists_4,1_ :20
+adding points: 20
+adding new to map_4,1_ : 40
+findstr already exists_1,0_ :160
+adding points: 20
+adding new to map_1,0_ : 180
+findstr already exists_2,1_ :60
+adding points: 20
+adding new to map_2,1_ : 80
+findstr already exists_12,0_ :240
+adding points: 30
+adding new to map_12,0_ : 270
+adding new to map_19,7_ : 20
+findstr already exists_18,2_ :20
+adding points: 30
+adding new to map_18,2_ : 50
+findstr already exists_0,0_ :50
+adding points: 30
+adding new to map_0,0_ : 80
+findstr already exists_7,1_ :60
+adding points: 30
+adding new to map_7,1_ : 90
+findstr already exists_10,1_ :60
+adding points: 30
+adding new to map_10,1_ : 90
+findstr already exists_8,0_ :160
+adding points: 20
+adding new to map_8,0_ : 180
+adding new to map_17,2_ : 30
+findstr already exists_5,0_ :230
+adding points: 30
+adding new to map_5,0_ : 260
+findstr already exists_10,0_ :120
+adding points: 20
+adding new to map_10,0_ : 140
+adding new to map_13,2_ : 30
+findstr already exists_2,0_ :150
+adding points: 30
+adding new to map_2,0_ : 180
+findstr already exists_1,0_ :180
+adding points: 30
+adding new to map_1,0_ : 210
+findstr already exists_13,1_ :40
+adding points: 20
+adding new to map_13,1_ : 60
+findstr already exists_0,0_ :80
+adding points: 30
+adding new to map_0,0_ : 110
+findstr already exists_11,0_ :140
+adding points: 30
+adding new to map_11,0_ : 170
+findstr already exists_0,7_ :20
+adding points: 20
+adding new to map_0,7_ : 40
+findstr already exists_0,1_ :60
+adding points: 30
+adding new to map_0,1_ : 90
+findstr already exists_1,1_ :50
+adding points: 30
+adding new to map_1,1_ : 80
+findstr already exists_7,0_ :200
+adding points: 20
+adding new to map_7,0_ : 220
+adding new to map_8,1_ : 30
+adding new to map_5,7_ : 30
+findstr already exists_4,0_ :140
+adding points: 30
+adding new to map_4,0_ : 170
+findstr already exists_0,0_ :110
+adding points: 20
+adding new to map_0,0_ : 130
+adding new to map_8,4_ : 20
+findstr already exists_8,4_ :20
+adding points: 20
+adding new to map_8,4_ : 40
+findstr already exists_13,2_ :30
+adding points: 20
+adding new to map_13,2_ : 50
+findstr already exists_16,8_ :30
+adding points: 20
+adding new to map_16,8_ : 50
+findstr already exists_5,0_ :260
+adding points: 20
+adding new to map_5,0_ : 280
+adding new to map_1,4_ : 30
+findstr already exists_16,0_ :160
+adding points: 40
+adding new to map_16,0_ : 200
+findstr already exists_4,1_ :40
+adding points: 40
+adding new to map_4,1_ : 80
+findstr already exists_17,0_ :90
+adding points: 30
+adding new to map_17,0_ : 120
+adding new to map_19,5_ : 30
+findstr already exists_2,2_ :20
+adding points: 20
+adding new to map_2,2_ : 40
+adding new to map_4,4_ : 30
+findstr already exists_0,0_ :130
+adding points: 30
+adding new to map_0,0_ : 160
+findstr already exists_11,0_ :170
+adding points: 30
+adding new to map_11,0_ : 200
+adding new to map_6,1_ : 40
+findstr already exists_6,0_ :120
+adding points: 30
+adding new to map_6,0_ : 150
+adding new to map_9,5_ : 40
+findstr already exists_19,0_ :170
+adding points: 30
+adding new to map_19,0_ : 200
+findstr already exists_8,0_ :180
+adding points: 40
+adding new to map_8,0_ : 220
+findstr already exists_7,0_ :220
+adding points: 40
+adding new to map_7,0_ : 260
+adding new to map_16,5_ : 40
+findstr already exists_10,0_ :140
+adding points: 40
+adding new to map_10,0_ : 180
+findstr already exists_9,8_ :20
+adding points: 30
+adding new to map_9,8_ : 50
+findstr already exists_14,7_ :20
+adding points: 40
+adding new to map_14,7_ : 60
+findstr already exists_17,1_ :30
+adding points: 40
+adding new to map_17,1_ : 70
+findstr already exists_3,1_ :30
+adding points: 20
+adding new to map_3,1_ : 50
+findstr already exists_5,0_ :280
+adding points: 20
+adding new to map_5,0_ : 300
+findstr already exists_7,8_ :20
+adding points: 20
+adding new to map_7,8_ : 40
+findstr already exists_19,0_ :200
+adding points: 30
+adding new to map_19,0_ : 230
+adding new to map_17,5_ : 30
+findstr already exists_6,1_ :40
+adding points: 20
+adding new to map_6,1_ : 60
+findstr already exists_11,0_ :200
+adding points: 30
+adding new to map_11,0_ : 230
+findstr already exists_18,2_ :50
+adding points: 30
+adding new to map_18,2_ : 80
+findstr already exists_9,0_ :170
+adding points: 20
+adding new to map_9,0_ : 190
+findstr already exists_10,0_ :180
+adding points: 20
+adding new to map_10,0_ : 200
+findstr already exists_0,7_ :40
+adding points: 30
+adding new to map_0,7_ : 70
+adding new to map_10,5_ : 40
+findstr already exists_11,1_ :70
+adding points: 40
+adding new to map_11,1_ : 110
+findstr already exists_4,0_ :170
+adding points: 30
+adding new to map_4,0_ : 200
+findstr already exists_13,0_ :170
+adding points: 30
+adding new to map_13,0_ : 200
+findstr already exists_13,0_ :200
+adding points: 40
+adding new to map_13,0_ : 240
+findstr already exists_13,2_ :50
+adding points: 40
+adding new to map_13,2_ : 90
+adding new to map_8,2_ : 40
+findstr already exists_0,1_ :90
+adding points: 30
+adding new to map_0,1_ : 120
+findstr already exists_5,0_ :300
+adding points: 40
+adding new to map_5,0_ : 340
+findstr already exists_4,0_ :200
+adding points: 30
+adding new to map_4,0_ : 230
+findstr already exists_0,0_ :160
+adding points: 30
+adding new to map_0,0_ : 190
+adding new to map_4,2_ : 40
+findstr already exists_8,0_ :220
+adding points: 30
+adding new to map_8,0_ : 250
+findstr already exists_14,0_ :160
+adding points: 40
+adding new to map_14,0_ : 200
+findstr already exists_4,7_ :20
+adding points: 40
+adding new to map_4,7_ : 60
+findstr already exists_6,4_ :60
+adding points: 40
+adding new to map_6,4_ : 100
+findstr already exists_15,7_ :30
+adding points: 40
+adding new to map_15,7_ : 70
+findstr already exists_6,0_ :150
+adding points: 30
+adding new to map_6,0_ : 180
+findstr already exists_9,0_ :190
+adding points: 30
+adding new to map_9,0_ : 220
+findstr already exists_18,0_ :100
+adding points: 40
+adding new to map_18,0_ : 140
+findstr already exists_8,4_ :40
+adding points: 20
+adding new to map_8,4_ : 60
+findstr already exists_19,0_ :230
+adding points: 20
+adding new to map_19,0_ : 250
+findstr already exists_1,4_ :30
+adding points: 20
+adding new to map_1,4_ : 50
+adding new to map_1,3_ : 20
+findstr already exists_18,0_ :140
+adding points: 30
+adding new to map_18,0_ : 170
+findstr already exists_17,0_ :120
+adding points: 30
+adding new to map_17,0_ : 150
+adding new to map_4,8_ : 30
+findstr already exists_9,0_ :220
+adding points: 20
+adding new to map_9,0_ : 240
+findstr already exists_5,1_ :50
+adding points: 30
+adding new to map_5,1_ : 80
+findstr already exists_10,2_ :20
+adding points: 30
+adding new to map_10,2_ : 50
+findstr already exists_12,1_ :60
+adding points: 20
+adding new to map_12,1_ : 80
+findstr already exists_14,7_ :60
+adding points: 30
+adding new to map_14,7_ : 90
+findstr already exists_15,0_ :150
+adding points: 30
+adding new to map_15,0_ : 180
+findstr already exists_13,4_ :40
+adding points: 30
+adding new to map_13,4_ : 70
+findstr already exists_7,0_ :260
+adding points: 30
+adding new to map_7,0_ : 290
+findstr already exists_11,0_ :230
+adding points: 30
+adding new to map_11,0_ : 260
+adding new to map_7,3_ : 20
+findstr already exists_3,0_ :170
+adding points: 20
+adding new to map_3,0_ : 190
+findstr already exists_3,0_ :190
+adding points: 30
+adding new to map_3,0_ : 220
+findstr already exists_12,0_ :270
+adding points: 30
+adding new to map_12,0_ : 300
+adding new to map_19,4_ : 40
+findstr already exists_10,0_ :200
+adding points: 30
+adding new to map_10,0_ : 230
+findstr already exists_9,0_ :240
+adding points: 40
+adding new to map_9,0_ : 280
+findstr already exists_9,0_ :280
+adding points: 30
+adding new to map_9,0_ : 310
+findstr already exists_12,0_ :300
+adding points: 40
+adding new to map_12,0_ : 340
+findstr already exists_1,4_ :50
+adding points: 30
+adding new to map_1,4_ : 80
+adding new to map_18,8_ : 30
+findstr already exists_7,0_ :290
+adding points: 30
+adding new to map_7,0_ : 320
+findstr already exists_1,0_ :210
+adding points: 40
+adding new to map_1,0_ : 250
+findstr already exists_19,2_ :20
+adding points: 30
+adding new to map_19,2_ : 50
+findstr already exists_0,0_ :190
+adding points: 20
+adding new to map_0,0_ : 210
+findstr already exists_3,7_ :30
+adding points: 30
+adding new to map_3,7_ : 60
+findstr already exists_1,4_ :80
+adding points: 30
+adding new to map_1,4_ : 110
+findstr already exists_1,0_ :250
+adding points: 30
+adding new to map_1,0_ : 280
+findstr already exists_14,0_ :200
+adding points: 30
+adding new to map_14,0_ : 230
+findstr already exists_15,0_ :180
+adding points: 30
+adding new to map_15,0_ : 210
+findstr already exists_6,0_ :180
+adding points: 30
+adding new to map_6,0_ : 210
+findstr already exists_10,2_ :50
+adding points: 20
+adding new to map_10,2_ : 70
+findstr already exists_16,0_ :200
+adding points: 30
+adding new to map_16,0_ : 230
+findstr already exists_6,1_ :60
+adding points: 30
+adding new to map_6,1_ : 90
+findstr already exists_12,0_ :340
+adding points: 20
+adding new to map_12,0_ : 360
+findstr already exists_6,0_ :210
+adding points: 20
+adding new to map_6,0_ : 230
+findstr already exists_4,1_ :80
+adding points: 20
+adding new to map_4,1_ : 100
+findstr already exists_1,0_ :280
+adding points: 20
+adding new to map_1,0_ : 300
+adding new to map_4,6_ : 20
+findstr already exists_9,0_ :310
+adding points: 20
+adding new to map_9,0_ : 330
+findstr already exists_7,0_ :320
+adding points: 30
+adding new to map_7,0_ : 350
+findstr already exists_12,7_ :30
+adding points: 30
+adding new to map_12,7_ : 60
+findstr already exists_1,0_ :300
+adding points: 30
+adding new to map_1,0_ : 330
+findstr already exists_6,0_ :230
+adding points: 20
+adding new to map_6,0_ : 250
+findstr already exists_4,0_ :230
+adding points: 20
+adding new to map_4,0_ : 250
+findstr already exists_16,0_ :230
+adding points: 30
+adding new to map_16,0_ : 260
+findstr already exists_8,0_ :250
+adding points: 30
+adding new to map_8,0_ : 280
+findstr already exists_13,0_ :240
+adding points: 20
+adding new to map_13,0_ : 260
+findstr already exists_12,0_ :360
+adding points: 30
+adding new to map_12,0_ : 390
+findstr already exists_14,0_ :230
+adding points: 30
+adding new to map_14,0_ : 260
+findstr already exists_0,0_ :210
+adding points: 30
+adding new to map_0,0_ : 240
+findstr already exists_14,0_ :260
+adding points: 20
+adding new to map_14,0_ : 280
+findstr already exists_13,1_ :60
+adding points: 20
+adding new to map_13,1_ : 80
+findstr already exists_3,0_ :220
+adding points: 20
+adding new to map_3,0_ : 240
+adding new to map_15,4_ : 30
+findstr already exists_9,0_ :330
+adding points: 30
+adding new to map_9,0_ : 360
+findstr already exists_9,0_ :360
+adding points: 30
+adding new to map_9,0_ : 390
+findstr already exists_15,7_ :70
+adding points: 30
+adding new to map_15,7_ : 100
+findstr already exists_8,1_ :30
+adding points: 30
+adding new to map_8,1_ : 60
+findstr already exists_11,0_ :260
+adding points: 30
+adding new to map_11,0_ : 290
+findstr already exists_6,1_ :90
+adding points: 30
+adding new to map_6,1_ : 120
+findstr already exists_9,0_ :390
+adding points: 20
+adding new to map_9,0_ : 410
+adding new to map_6,2_ : 30
+adding new to map_2,6_ : 20
+adding new to map_1,6_ : 30
+findstr already exists_6,0_ :250
+adding points: 30
+adding new to map_6,0_ : 280
+findstr already exists_10,0_ :230
+adding points: 20
+adding new to map_10,0_ : 250
+findstr already exists_8,0_ :280
+adding points: 30
+adding new to map_8,0_ : 310
+findstr already exists_18,0_ :170
+adding points: 20
+adding new to map_18,0_ : 190
+adding new to map_6,5_ : 30
+findstr already exists_19,1_ :30
+adding points: 30
+adding new to map_19,1_ : 60
+findstr already exists_6,0_ :280
+adding points: 30
+adding new to map_6,0_ : 310
+findstr already exists_5,0_ :340
+adding points: 30
+adding new to map_5,0_ : 370
+findstr already exists_5,7_ :30
+adding points: 20
+adding new to map_5,7_ : 50
+findstr already exists_13,0_ :260
+adding points: 30
+adding new to map_13,0_ : 290
+findstr already exists_7,6_ :20
+adding points: 20
+adding new to map_7,6_ : 40
+adding new to map_12,5_ : 30
+findstr already exists_12,1_ :80
+adding points: 30
+adding new to map_12,1_ : 110
+findstr already exists_9,1_ :60
+adding points: 20
+adding new to map_9,1_ : 80
+findstr already exists_6,0_ :310
+adding points: 30
+adding new to map_6,0_ : 340
+findstr already exists_4,7_ :60
+adding points: 20
+adding new to map_4,7_ : 80
+findstr already exists_19,1_ :60
+adding points: 20
+adding new to map_19,1_ : 80
+adding new to map_2,5_ : 30
+findstr already exists_3,1_ :50
+adding points: 30
+adding new to map_3,1_ : 80
+findstr already exists_12,0_ :390
+adding points: 20
+adding new to map_12,0_ : 410
+findstr already exists_13,0_ :290
+adding points: 30
+adding new to map_13,0_ : 320
+findstr already exists_9,0_ :410
+adding points: 30
+adding new to map_9,0_ : 440
+adding new to map_15,5_ : 20
+findstr already exists_18,8_ :30
+adding points: 30
+adding new to map_18,8_ : 60
+findstr already exists_15,0_ :210
+adding points: 20
+adding new to map_15,0_ : 230
+findstr already exists_18,0_ :190
+adding points: 30
+adding new to map_18,0_ : 220
+findstr already exists_13,7_ :40
+adding points: 20
+adding new to map_13,7_ : 60
+findstr already exists_11,0_ :290
+adding points: 30
+adding new to map_11,0_ : 320
+adding new to map_7,7_ : 20
+findstr already exists_2,0_ :180
+adding points: 30
+adding new to map_2,0_ : 210
+findstr already exists_0,0_ :240
+adding points: 30
+adding new to map_0,0_ : 270
+findstr already exists_10,4_ :20
+adding points: 20
+adding new to map_10,4_ : 40
+findstr already exists_9,1_ :80
+adding points: 20
+adding new to map_9,1_ : 100
+findstr already exists_8,7_ :50
+adding points: 30
+adding new to map_8,7_ : 80
+findstr already exists_2,0_ :210
+adding points: 30
+adding new to map_2,0_ : 240
+findstr already exists_11,0_ :320
+adding points: 20
+adding new to map_11,0_ : 340
+findstr already exists_13,0_ :320
+adding points: 20
+adding new to map_13,0_ : 340
+findstr already exists_4,1_ :100
+adding points: 30
+adding new to map_4,1_ : 130
+findstr already exists_14,0_ :280
+adding points: 30
+adding new to map_14,0_ : 310
+findstr already exists_16,5_ :40
+adding points: 20
+adding new to map_16,5_ : 60
+findstr already exists_18,6_ :20
+adding points: 20
+adding new to map_18,6_ : 40
+findstr already exists_14,0_ :310
+adding points: 30
+adding new to map_14,0_ : 340
+adding new to map_1,2_ : 30
+findstr already exists_14,0_ :340
+adding points: 20
+adding new to map_14,0_ : 360
+findstr already exists_9,0_ :440
+adding points: 30
+adding new to map_9,0_ : 470
+findstr already exists_8,4_ :60
+adding points: 20
+adding new to map_8,4_ : 80
+findstr already exists_14,0_ :360
+adding points: 30
+adding new to map_14,0_ : 390
+findstr already exists_8,2_ :40
+adding points: 20
+adding new to map_8,2_ : 60
+findstr already exists_15,0_ :230
+adding points: 20
+adding new to map_15,0_ : 250
+findstr already exists_8,4_ :80
+adding points: 20
+adding new to map_8,4_ : 100
+findstr already exists_4,1_ :130
+adding points: 30
+adding new to map_4,1_ : 160
+findstr already exists_1,0_ :330
+adding points: 20
+adding new to map_1,0_ : 350
+findstr already exists_12,0_ :410
+adding points: 30
+adding new to map_12,0_ : 440
+findstr already exists_4,0_ :250
+adding points: 30
+adding new to map_4,0_ : 280
+findstr already exists_5,1_ :80
+adding points: 30
+adding new to map_5,1_ : 110
+findstr already exists_0,2_ :50
+adding points: 30
+adding new to map_0,2_ : 80
+findstr already exists_15,1_ :50
+adding points: 20
+adding new to map_15,1_ : 70
+findstr already exists_11,0_ :340
+adding points: 20
+adding new to map_11,0_ : 360
+findstr already exists_2,0_ :240
+adding points: 30
+adding new to map_2,0_ : 270
+findstr already exists_18,0_ :220
+adding points: 30
+adding new to map_18,0_ : 250
+findstr already exists_17,1_ :70
+adding points: 20
+adding new to map_17,1_ : 90
+findstr already exists_15,0_ :250
+adding points: 30
+adding new to map_15,0_ : 280
+findstr already exists_4,4_ :30
+adding points: 30
+adding new to map_4,4_ : 60
+findstr already exists_15,0_ :280
+adding points: 30
+adding new to map_15,0_ : 310
+adding new to map_18,4_ : 20
+findstr already exists_12,0_ :440
+adding points: 20
+adding new to map_12,0_ : 460
+findstr already exists_11,1_ :110
+adding points: 30
+adding new to map_11,1_ : 140
+findstr already exists_19,1_ :80
+adding points: 30
+adding new to map_19,1_ : 110
+findstr already exists_9,0_ :470
+adding points: 20
+adding new to map_9,0_ : 490
+findstr already exists_15,2_ :80
+adding points: 30
+adding new to map_15,2_ : 110
+findstr already exists_12,0_ :460
+adding points: 20
+adding new to map_12,0_ : 480
+findstr already exists_4,6_ :20
+adding points: 20
+adding new to map_4,6_ : 40
+findstr already exists_8,1_ :60
+adding points: 30
+adding new to map_8,1_ : 90
+findstr already exists_8,0_ :310
+adding points: 20
+adding new to map_8,0_ : 330
+adding new to map_11,7_ : 20
+findstr already exists_11,8_ :50
+adding points: 20
+adding new to map_11,8_ : 70
+findstr already exists_1,2_ :30
+adding points: 30
+adding new to map_1,2_ : 60
+adding new to map_12,8_ : 20
+findstr already exists_4,0_ :280
+adding points: 20
+adding new to map_4,0_ : 300
+findstr already exists_5,0_ :370
+adding points: 30
+adding new to map_5,0_ : 400
+findstr already exists_10,0_ :250
+adding points: 30
+adding new to map_10,0_ : 280
+findstr already exists_17,0_ :150
+adding points: 20
+adding new to map_17,0_ : 170
+findstr already exists_19,8_ :30
+adding points: 30
+adding new to map_19,8_ : 60
+findstr already exists_13,4_ :70
+adding points: 30
+adding new to map_13,4_ : 100
+findstr already exists_11,0_ :360
+adding points: 20
+adding new to map_11,0_ : 380
+findstr already exists_8,0_ :330
+adding points: 30
+adding new to map_8,0_ : 360
+findstr already exists_18,0_ :250
+adding points: 20
+adding new to map_18,0_ : 270
+findstr already exists_8,0_ :360
+adding points: 20
+adding new to map_8,0_ : 380
+findstr already exists_0,1_ :120
+adding points: 20
+adding new to map_0,1_ : 140
+findstr already exists_15,0_ :310
+adding points: 20
+adding new to map_15,0_ : 330
+findstr already exists_7,1_ :90
+adding points: 30
+adding new to map_7,1_ : 120
+findstr already exists_14,0_ :390
+adding points: 30
+adding new to map_14,0_ : 420
+findstr already exists_18,7_ :30
+adding points: 20
+adding new to map_18,7_ : 50
+findstr already exists_5,0_ :400
+adding points: 40
+adding new to map_5,0_ : 440
+findstr already exists_13,4_ :100
+adding points: 40
+adding new to map_13,4_ : 140
+findstr already exists_8,0_ :380
+adding points: 40
+adding new to map_8,0_ : 420
+findstr already exists_7,0_ :350
+adding points: 40
+adding new to map_7,0_ : 390
+findstr already exists_0,0_ :270
+adding points: 40
+adding new to map_0,0_ : 310
+findstr already exists_6,0_ :340
+adding points: 30
+adding new to map_6,0_ : 370
+adding new to map_4,5_ : 30
+findstr already exists_2,0_ :270
+adding points: 40
+adding new to map_2,0_ : 310
+findstr already exists_16,0_ :260
+adding points: 40
+adding new to map_16,0_ : 300
+findstr already exists_0,0_ :310
+adding points: 40
+adding new to map_0,0_ : 350
+findstr already exists_16,8_ :50
+adding points: 30
+adding new to map_16,8_ : 80
+findstr already exists_5,1_ :110
+adding points: 20
+adding new to map_5,1_ : 130
+findstr already exists_17,2_ :30
+adding points: 30
+adding new to map_17,2_ : 60
+findstr already exists_16,0_ :300
+adding points: 30
+adding new to map_16,0_ : 330
+findstr already exists_7,0_ :390
+adding points: 20
+adding new to map_7,0_ : 410
+findstr already exists_12,0_ :480
+adding points: 30
+adding new to map_12,0_ : 510
+findstr already exists_8,0_ :420
+adding points: 20
+adding new to map_8,0_ : 440
+findstr already exists_5,5_ :40
+adding points: 30
+adding new to map_5,5_ : 70
+findstr already exists_1,0_ :350
+adding points: 30
+adding new to map_1,0_ : 380
+adding new to map_2,4_ : 20
+findstr already exists_1,0_ :380
+adding points: 20
+adding new to map_1,0_ : 400
+findstr already exists_16,0_ :330
+adding points: 30
+adding new to map_16,0_ : 360
+findstr already exists_2,7_ :110
+adding points: 30
+adding new to map_2,7_ : 140
+findstr already exists_6,0_ :370
+adding points: 30
+adding new to map_6,0_ : 400
+findstr already exists_10,4_ :40
+adding points: 20
+adding new to map_10,4_ : 60
+findstr already exists_1,0_ :400
+adding points: 20
+adding new to map_1,0_ : 420
+findstr already exists_19,0_ :250
+adding points: 30
+adding new to map_19,0_ : 280
+findstr already exists_11,2_ :30
+adding points: 30
+adding new to map_11,2_ : 60
+findstr already exists_9,0_ :490
+adding points: 20
+adding new to map_9,0_ : 510
+findstr already exists_12,0_ :510
+adding points: 20
+adding new to map_12,0_ : 530
+findstr already exists_19,0_ :280
+adding points: 20
+adding new to map_19,0_ : 300
+findstr already exists_0,5_ :30
+adding points: 20
+adding new to map_0,5_ : 50
+findstr already exists_17,0_ :170
+adding points: 30
+adding new to map_17,0_ : 200
+findstr already exists_13,0_ :340
+adding points: 20
+adding new to map_13,0_ : 360
+adding new to map_3,6_ : 20
+findstr already exists_19,0_ :300
+adding points: 30
+adding new to map_19,0_ : 330
+findstr already exists_0,0_ :350
+adding points: 30
+adding new to map_0,0_ : 380
+findstr already exists_6,5_ :30
+adding points: 30
+adding new to map_6,5_ : 60
+findstr already exists_19,1_ :110
+adding points: 30
+adding new to map_19,1_ : 140
+findstr already exists_17,8_ :20
+adding points: 20
+adding new to map_17,8_ : 40
+findstr already exists_0,2_ :80
+adding points: 20
+adding new to map_0,2_ : 100
+findstr already exists_4,4_ :60
+adding points: 30
+adding new to map_4,4_ : 90
+findstr already exists_4,2_ :40
+adding points: 20
+adding new to map_4,2_ : 60
+findstr already exists_3,1_ :80
+adding points: 20
+adding new to map_3,1_ : 100
+findstr already exists_7,1_ :120
+adding points: 30
+adding new to map_7,1_ : 150
+findstr already exists_19,0_ :330
+adding points: 30
+adding new to map_19,0_ : 360
+findstr already exists_1,0_ :420
+adding points: 30
+adding new to map_1,0_ : 450
+findstr already exists_19,2_ :50
+adding points: 30
+adding new to map_19,2_ : 80
+adding new to map_14,5_ : 40
+findstr already exists_13,2_ :90
+adding points: 30
+adding new to map_13,2_ : 120
+findstr already exists_8,0_ :440
+adding points: 40
+adding new to map_8,0_ : 480
+findstr already exists_17,0_ :200
+adding points: 30
+adding new to map_17,0_ : 230
+findstr already exists_2,0_ :310
+adding points: 30
+adding new to map_2,0_ : 340
+findstr already exists_9,1_ :100
+adding points: 40
+adding new to map_9,1_ : 140
+findstr already exists_2,2_ :40
+adding points: 30
+adding new to map_2,2_ : 70
+adding new to map_12,2_ : 30
+findstr already exists_5,0_ :440
+adding points: 30
+adding new to map_5,0_ : 470
+findstr already exists_3,1_ :100
+adding points: 30
+adding new to map_3,1_ : 130
+findstr already exists_14,0_ :420
+adding points: 30
+adding new to map_14,0_ : 450
+findstr already exists_2,0_ :340
+adding points: 30
+adding new to map_2,0_ : 370
+findstr already exists_12,1_ :110
+adding points: 20
+adding new to map_12,1_ : 130
+findstr already exists_9,1_ :140
+adding points: 20
+adding new to map_9,1_ : 160
+findstr already exists_3,0_ :240
+adding points: 30
+adding new to map_3,0_ : 270
+findstr already exists_9,7_ :30
+adding points: 20
+adding new to map_9,7_ : 50
+findstr already exists_19,0_ :360
+adding points: 30
+adding new to map_19,0_ : 390
+findstr already exists_4,4_ :90
+adding points: 20
+adding new to map_4,4_ : 110
+findstr already exists_14,0_ :450
+adding points: 20
+adding new to map_14,0_ : 470
+findstr already exists_4,0_ :300
+adding points: 20
+adding new to map_4,0_ : 320
+findstr already exists_2,2_ :70
+adding points: 20
+adding new to map_2,2_ : 90
+findstr already exists_4,0_ :320
+adding points: 30
+adding new to map_4,0_ : 350
+findstr already exists_9,0_ :510
+adding points: 20
+adding new to map_9,0_ : 530
+findstr already exists_10,0_ :280
+adding points: 30
+adding new to map_10,0_ : 310
+findstr already exists_10,1_ :90
+adding points: 30
+adding new to map_10,1_ : 120
+adding new to map_11,4_ : 30
+adding new to map_19,6_ : 20
+findstr already exists_8,6_ :20
+adding points: 20
+adding new to map_8,6_ : 40
+findstr already exists_6,0_ :400
+adding points: 30
+adding new to map_6,0_ : 430
+adding new to map_16,6_ : 20
+findstr already exists_18,6_ :40
+adding points: 30
+adding new to map_18,6_ : 70
+ reviewerId_passion: _0,0_ points: 380
+ reviewerId_passion: _0,1_ points: 140
+ reviewerId_passion: _0,2_ points: 100
+ reviewerId_passion: _0,5_ points: 50
+ reviewerId_passion: _0,6_ points: 30
+ reviewerId_passion: _0,7_ points: 70
+ reviewerId_passion: _1,0_ points: 450
+ reviewerId_passion: _1,1_ points: 80
+ reviewerId_passion: _1,2_ points: 60
+ reviewerId_passion: _1,3_ points: 20
+ reviewerId_passion: _1,4_ points: 110
+ reviewerId_passion: _1,6_ points: 30
+ reviewerId_passion: _1,8_ points: 20
+ reviewerId_passion: _10,0_ points: 310
+ reviewerId_passion: _10,1_ points: 120
+ reviewerId_passion: _10,2_ points: 70
+ reviewerId_passion: _10,4_ points: 60
+ reviewerId_passion: _10,5_ points: 40
+ reviewerId_passion: _10,7_ points: 20
+ reviewerId_passion: _10,8_ points: 20
+ reviewerId_passion: _11,0_ points: 380
+ reviewerId_passion: _11,1_ points: 140
+ reviewerId_passion: _11,2_ points: 60
+ reviewerId_passion: _11,4_ points: 30
+ reviewerId_passion: _11,5_ points: 50
+ reviewerId_passion: _11,6_ points: 20
+ reviewerId_passion: _11,7_ points: 20
+ reviewerId_passion: _11,8_ points: 70
+ reviewerId_passion: _12,0_ points: 530
+ reviewerId_passion: _12,1_ points: 130
+ reviewerId_passion: _12,2_ points: 30
+ reviewerId_passion: _12,5_ points: 30
+ reviewerId_passion: _12,6_ points: 20
+ reviewerId_passion: _12,7_ points: 60
+ reviewerId_passion: _12,8_ points: 20
+ reviewerId_passion: _13,0_ points: 360
+ reviewerId_passion: _13,1_ points: 80
+ reviewerId_passion: _13,2_ points: 120
+ reviewerId_passion: _13,4_ points: 140
+ reviewerId_passion: _13,6_ points: 40
+ reviewerId_passion: _13,7_ points: 60
+ reviewerId_passion: _14,0_ points: 470
+ reviewerId_passion: _14,1_ points: 120
+ reviewerId_passion: _14,5_ points: 40
+ reviewerId_passion: _14,7_ points: 90
+ reviewerId_passion: _14,8_ points: 30
+ reviewerId_passion: _15,0_ points: 330
+ reviewerId_passion: _15,1_ points: 70
+ reviewerId_passion: _15,2_ points: 110
+ reviewerId_passion: _15,4_ points: 30
+ reviewerId_passion: _15,5_ points: 20
+ reviewerId_passion: _15,6_ points: 40
+ reviewerId_passion: _15,7_ points: 100
+ reviewerId_passion: _16,0_ points: 360
+ reviewerId_passion: _16,2_ points: 30
+ reviewerId_passion: _16,3_ points: 20
+ reviewerId_passion: _16,4_ points: 20
+ reviewerId_passion: _16,5_ points: 60
+ reviewerId_passion: _16,6_ points: 20
+ reviewerId_passion: _16,7_ points: 40
+ reviewerId_passion: _16,8_ points: 80
+ reviewerId_passion: _17,0_ points: 230
+ reviewerId_passion: _17,1_ points: 90
+ reviewerId_passion: _17,2_ points: 60
+ reviewerId_passion: _17,3_ points: 20
+ reviewerId_passion: _17,5_ points: 30
+ reviewerId_passion: _17,6_ points: 20
+ reviewerId_passion: _17,8_ points: 40
+ reviewerId_passion: _18,0_ points: 270
+ reviewerId_passion: _18,2_ points: 80
+ reviewerId_passion: _18,4_ points: 20
+ reviewerId_passion: _18,6_ points: 70
+ reviewerId_passion: _18,7_ points: 50
+ reviewerId_passion: _18,8_ points: 60
+ reviewerId_passion: _19,0_ points: 390
+ reviewerId_passion: _19,1_ points: 140
+ reviewerId_passion: _19,2_ points: 80
+ reviewerId_passion: _19,4_ points: 40
+ reviewerId_passion: _19,5_ points: 30
+ reviewerId_passion: _19,6_ points: 20
+ reviewerId_passion: _19,7_ points: 20
+ reviewerId_passion: _19,8_ points: 60
+ reviewerId_passion: _2,0_ points: 370
+ reviewerId_passion: _2,1_ points: 80
+ reviewerId_passion: _2,2_ points: 90
+ reviewerId_passion: _2,4_ points: 20
+ reviewerId_passion: _2,5_ points: 30
+ reviewerId_passion: _2,6_ points: 20
+ reviewerId_passion: _2,7_ points: 140
+ reviewerId_passion: _3,0_ points: 270
+ reviewerId_passion: _3,1_ points: 130
+ reviewerId_passion: _3,6_ points: 20
+ reviewerId_passion: _3,7_ points: 60
+ reviewerId_passion: _4,0_ points: 350
+ reviewerId_passion: _4,1_ points: 160
+ reviewerId_passion: _4,2_ points: 60
+ reviewerId_passion: _4,4_ points: 110
+ reviewerId_passion: _4,5_ points: 30
+ reviewerId_passion: _4,6_ points: 40
+ reviewerId_passion: _4,7_ points: 80
+ reviewerId_passion: _4,8_ points: 30
+ reviewerId_passion: _5,0_ points: 470
+ reviewerId_passion: _5,1_ points: 130
+ reviewerId_passion: _5,2_ points: 20
+ reviewerId_passion: _5,5_ points: 70
+ reviewerId_passion: _5,6_ points: 20
+ reviewerId_passion: _5,7_ points: 50
+ reviewerId_passion: _6,0_ points: 430
+ reviewerId_passion: _6,1_ points: 120
+ reviewerId_passion: _6,2_ points: 30
+ reviewerId_passion: _6,4_ points: 100
+ reviewerId_passion: _6,5_ points: 60
+ reviewerId_passion: _6,8_ points: 30
+ reviewerId_passion: _7,0_ points: 410
+ reviewerId_passion: _7,1_ points: 150
+ reviewerId_passion: _7,2_ points: 60
+ reviewerId_passion: _7,3_ points: 20
+ reviewerId_passion: _7,5_ points: 30
+ reviewerId_passion: _7,6_ points: 40
+ reviewerId_passion: _7,7_ points: 20
+ reviewerId_passion: _7,8_ points: 40
+ reviewerId_passion: _8,0_ points: 480
+ reviewerId_passion: _8,1_ points: 90
+ reviewerId_passion: _8,2_ points: 60
+ reviewerId_passion: _8,4_ points: 100
+ reviewerId_passion: _8,5_ points: 60
+ reviewerId_passion: _8,6_ points: 40
+ reviewerId_passion: _8,7_ points: 80
+ reviewerId_passion: _9,0_ points: 530
+ reviewerId_passion: _9,1_ points: 160
+ reviewerId_passion: _9,4_ points: 120
+ reviewerId_passion: _9,5_ points: 40
+ reviewerId_passion: _9,7_ points: 50
+ reviewerId_passion: _9,8_ points: 50
+f: 0_ r: 0, points 380
+f: 1_ r: 0, points 140
+f: 2_ r: 0, points 100
+f: 5_ r: 0, points 50
+f: 6_ r: 0, points 30
+f: 7_ r: 0, points 70
+f: 0_ r: 1, points 450
+f: 1_ r: 1, points 80
+f: 2_ r: 1, points 60
+f: 3_ r: 1, points 20
+f: 4_ r: 1, points 110
+f: 6_ r: 1, points 30
+f: 8_ r: 1, points 20
+f: 0_ r: 10, points 310
+f: 1_ r: 10, points 120
+f: 2_ r: 10, points 70
+f: 4_ r: 10, points 60
+f: 5_ r: 10, points 40
+f: 7_ r: 10, points 20
+f: 8_ r: 10, points 20
+f: 0_ r: 11, points 380
+f: 1_ r: 11, points 140
+f: 2_ r: 11, points 60
+f: 4_ r: 11, points 30
+f: 5_ r: 11, points 50
+f: 6_ r: 11, points 20
+f: 7_ r: 11, points 20
+f: 8_ r: 11, points 70
+f: 0_ r: 12, points 530
+f: 1_ r: 12, points 130
+f: 2_ r: 12, points 30
+f: 5_ r: 12, points 30
+f: 6_ r: 12, points 20
+f: 7_ r: 12, points 60
+f: 8_ r: 12, points 20
+f: 0_ r: 13, points 360
+f: 1_ r: 13, points 80
+f: 2_ r: 13, points 120
+f: 4_ r: 13, points 140
+f: 6_ r: 13, points 40
+f: 7_ r: 13, points 60
+f: 0_ r: 14, points 470
+f: 1_ r: 14, points 120
+f: 5_ r: 14, points 40
+f: 7_ r: 14, points 90
+f: 8_ r: 14, points 30
+f: 0_ r: 15, points 330
+f: 1_ r: 15, points 70
+f: 2_ r: 15, points 110
+f: 4_ r: 15, points 30
+f: 5_ r: 15, points 20
+f: 6_ r: 15, points 40
+f: 7_ r: 15, points 100
+f: 0_ r: 16, points 360
+f: 2_ r: 16, points 30
+f: 3_ r: 16, points 20
+f: 4_ r: 16, points 20
+f: 5_ r: 16, points 60
+f: 6_ r: 16, points 20
+f: 7_ r: 16, points 40
+f: 8_ r: 16, points 80
+f: 0_ r: 17, points 230
+f: 1_ r: 17, points 90
+f: 2_ r: 17, points 60
+f: 3_ r: 17, points 20
+f: 5_ r: 17, points 30
+f: 6_ r: 17, points 20
+f: 8_ r: 17, points 40
+f: 0_ r: 18, points 270
+f: 2_ r: 18, points 80
+f: 4_ r: 18, points 20
+f: 6_ r: 18, points 70
+f: 7_ r: 18, points 50
+f: 8_ r: 18, points 60
+f: 0_ r: 19, points 390
+f: 1_ r: 19, points 140
+f: 2_ r: 19, points 80
+f: 4_ r: 19, points 40
+f: 5_ r: 19, points 30
+f: 6_ r: 19, points 20
+f: 7_ r: 19, points 20
+f: 8_ r: 19, points 60
+f: 0_ r: 2, points 370
+f: 1_ r: 2, points 80
+f: 2_ r: 2, points 90
+f: 4_ r: 2, points 20
+f: 5_ r: 2, points 30
+f: 6_ r: 2, points 20
+f: 7_ r: 2, points 140
+f: 0_ r: 3, points 270
+f: 1_ r: 3, points 130
+f: 6_ r: 3, points 20
+f: 7_ r: 3, points 60
+f: 0_ r: 4, points 350
+f: 1_ r: 4, points 160
+f: 2_ r: 4, points 60
+f: 4_ r: 4, points 110
+f: 5_ r: 4, points 30
+f: 6_ r: 4, points 40
+f: 7_ r: 4, points 80
+f: 8_ r: 4, points 30
+f: 0_ r: 5, points 470
+f: 1_ r: 5, points 130
+f: 2_ r: 5, points 20
+f: 5_ r: 5, points 70
+f: 6_ r: 5, points 20
+f: 7_ r: 5, points 50
+f: 0_ r: 6, points 430
+f: 1_ r: 6, points 120
+f: 2_ r: 6, points 30
+f: 4_ r: 6, points 100
+f: 5_ r: 6, points 60
+f: 8_ r: 6, points 30
+f: 0_ r: 7, points 410
+f: 1_ r: 7, points 150
+f: 2_ r: 7, points 60
+f: 3_ r: 7, points 20
+f: 5_ r: 7, points 30
+f: 6_ r: 7, points 40
+f: 7_ r: 7, points 20
+f: 8_ r: 7, points 40
+f: 0_ r: 8, points 480
+f: 1_ r: 8, points 90
+f: 2_ r: 8, points 60
+f: 4_ r: 8, points 100
+f: 5_ r: 8, points 60
+f: 6_ r: 8, points 40
+f: 7_ r: 8, points 80
+f: 0_ r: 9, points 530
+f: 1_ r: 9, points 160
+f: 4_ r: 9, points 120
+f: 5_ r: 9, points 40
+f: 7_ r: 9, points 50
+f: 8_ r: 9, points 509
+4
+13
+1
+13
+5
+18
+2
+16

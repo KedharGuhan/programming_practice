@@ -1,0 +1,36 @@
+Explain C++ template and multithreading and examples?
+How does git store data and manage access control? Fast-forward merging in Git?
+Unix command to find patterns in directory hierarchy
+video color format, allocate aligned memory. basic c++ questions.
+what is the difference between a process and a thread?
+Free a BST.
+Implement atoi
+Explain the difference between const int * and int const *.
+Logical question followed by code to the same. Find the trailing number of 0s in 106!
+
+function pointers
+strstr
+strcmp
+str_copy
+memcpy
+malloc
+free
+
+1. static in C
+2. static in C++
+3. class in C
+4. constructor in c++
+5. access specifiers
+6. private, public, protected,
+7. OpenMP constructs - see RAM's coding
+
+1. normalise_math
+2. spiral matrix
+3. encoding google
+4. circular queue
+
+OS:
+
+1. producer consumer problem
+2. semaphores
+3. Explain cache coherence protocols

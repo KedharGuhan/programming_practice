@@ -1,0 +1,12 @@
+1. Top k items
+2. reverse a linked list
+3. merge sort
+4. quick sort
+5. bubble sort
+6. binary search
+--------------------------------------------------
+OS - pthreads
+--------------------------------------------------
+car parking
+--------------------------------------------------
+

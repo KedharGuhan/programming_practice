@@ -1,0 +1,12 @@
+1. basic data types in C:
+int, float, char, double
+Qualifiers:
+short, long, int can be ignored while writing short
+signed or unsigned
+
+2. printing %6d => print as decimal, atleast 6 characters wide
+3. %6.2f => xxxxx.xx 
+4. char c = getchar(), putchar(c)
+5. What is a string constant = "harshitha"
+6. Type conversions:
+Expressions that loose information

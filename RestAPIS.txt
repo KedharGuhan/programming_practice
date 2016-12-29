@@ -1,0 +1,82 @@
+Distributed Systems
+1. Problems for distributed systems
+	Network latency
+	Network reliabilty
+	Bandwidth
+	Network security
+	changes in topology
+	Administrators
+	Transport cost is zero
+2. Three views of distributed systems
+	Shared state : Online chess game
+	API view: 
+3. What is a web service
+	method of communication between two machines over a network
+	over HTTP protocol, accessed by API and executed on a remote server
+	SOAP, REST
+4. Rest principles
+	GET, POST, DELETE , for requests
+	HTTP responses
+	identifying resources via URI
+	PUT, HEAD (size, type of the return resource ), OPTIONS (discovers http methods on resource)
+
+5. REST Constraints	
+	Seperation of Concerns: Client- Server
+	Servers do not maintain client state, clients do not store data 
+	Servers are stateless - every reuqest ust contain all the information necessary
+				maintains session state on the client
+	Cacheable : server responses can be cacheabel and shd indicate how long
+	Load balancers and caching involved to improve the scalabilty 
+
+6. 	POST return 201 created
+	GET - 200 
+	PUT, DELETE 204 No content
+	Conditional GET if modified, last modified , 304 not modified
+	Partial GET
+ 
+7. Are asynchronous operations supported by rest
+	yes, 202 accepted from sevrer
+
+8. 4XX client side error
+   5XX server side
+   Also supports batch operations, project, select
+
+9. Protocol buffers
+   serialising, deserialising data
+
+10. Replication
+	keep data close to users, scale out , keep the system if some parts have failed
+
+11. consistent hashing
+	way to distribute requests among chnaging number of servers. The addition/ removal of nodes takes K/N nodes to reshuffle
+	where K is the number of keys and n is the number of nodes
+
+12. consesnus algorithms
+	RAFT - leader, candidate, follower
+	candidate asks for votes, become leader , 
+	A leader replicates log entries, checks heartbeats
+	When a leader dies, candiates come up
+
+13. how to implement caching
+	select areas of botteneck
+	client side caching when bandwidth is a bottleneck
+	server side caching when multiple requests are for the same data
+	eviction strategy ; MRU, LRU
+
+14. OAuth2.0
+	 
+15.  275 Project - 
+	Netty pipeline encodes/decodes data before writng to a socket
+	Netty pipeline has : Protobuf encoder-> frame encoder-> socket
+	A handler enqueus the message 
+	dequeued from the message queue and assigned to specific worker
+		if its of type Heartbeat, Election, Voting , Task
+	Protobuf - langaugae independent mechanism for serialising structured data
+
+16. Hash Tree datastructure
+	every non leaf nodes is the hash of its child nodes
+	efficient verification of contents of large data structures
+
+	
+	
+

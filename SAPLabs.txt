@@ -1,0 +1,61 @@
+# Explain these Object­Oriented Programming concepts.
+
+
+List aspects or properties, multiple answers possible.
+
+
+Q: What is an Object? Instance of a class/struct
+
+
+Q: What is a Class?
+
+
+Q: Name a language which do/don't represent classes as objects at runtime.
+
+
+Q: What Is Inheritance?
+
+
+Q: What Is Delegation?
+
+
+Q: What is an Abstract Class?
+
+
+Q: What is a Pure Abstract Class?
+
+
+Q: What is an Interface?
+
+
+Q: What is a Functional Interface in Java?
+
+
+Q: How can types be grouped in Java, C++ to minimize risk of name clashes?
+
+
+Q: Describe the primitive data types in Java, C++.
+C++ :
+int, char, float, double
+Short int, long int
+
+
+    int a = 2;
+    short b = a;
+
+
+Java:
+int, char, float, double, Integer,Character, Double
+
+
+int a;
+Integer a;
+
+
+    int a = 2;
+    short b = a; //
+Integer a = 2
+Short b = a.Intvalue();
+
+
+Q: Describe the access modifiers in Java, C++.

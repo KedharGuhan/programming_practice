@@ -1,0 +1,100 @@
+Write answers to these questions. You have 12 hours to do it. Make sure all your answers are final and treat this like a real interview exam. Once you send the answers to me, I should understand it and I will critique it.
+ 
+Can constructor be virtual? Why and when?
+constructors cannot be virtual.  Constructors are called during object creation. And when creating an object we need to specify the information about the type of the object. Virtual methods are a mechanism to ensure that we call the functions associated with the class type of the object without knowing the complete information. --- Explanation is not relevant to the question
+ 
+Virtual functions are a way of dynamic polymorphism i.e using base class pointer to call derived class methods.
+ In the case of a constructor, the base class one always has to be called before the derived because a constructor is creating the object, so base has to be created before derived. (Similarly, destructor always has to be in reverse order)
+If a constructor could have been virtual, the we would be using base class pointer to call derived class constructor but that could not make any sense. Because all the constructors have to be called in base to derived order.
+ 
+Can destructor be virtual? Why and when? Correct. In fact, destructor MUST be virtual when any of the methods is virtual.
+Destructors can be virtual. They are needed so that the appropriate derived class destructor can be called.
+class Derived: public Base{ .. }
+Base *ptr = new Derived();
+delete ptr;
+ 
+How do you delete array of objects in c++?
+ delete[] array
+ delete array is wrong. it only deleted the object at address in array  -- this does not call destructors of the objects in the array (dangerous and incorrect)
+ 
+Difference between class and struct? Correct
+members of struct are public by default.members of class are private by default.
+when deriving from struct, def access specifier is public. In classes, its private
+ 
+Difference between pointer and reference
+A reference has to be initialised during declaration. A reference is attached to a storage.
+A pointer need not be initialised, it can be null as well.  A pointer can be changed to point to any other location. Correct. Semantically, an reference is otherwise is just like a pointer.
+ 
+How would you implement singleton in c++? Write Code.
+ 
+class Singleton{
+private:
+static bool objExists;
+static Singleton* obj;
+Singleton(){
+}
+public:
+static Singleton* getInstance();
+}
+Singleton* Singleton::getInstance
+{
+          // need  a lock here
+if(!objExists)
+{
+obj = new Singleton();
+objExists = true;
+return obj;
+}
+else return obj;
+}
+int Singleton::objExists = false;
+Singleton* Singleton::obj = NULL;
+Singleton* single = Singleton::getInstance();
+ 
+How and where are static member variable defined? Give an example.
+static member is defined outside the class other wise linker throws an error.
+A static member variable is shared among all objects of a class. Doesn’t answer the question.
+ 
+static variable inside function remains the same between function invocation.
+class A{
+static int j;
+..
+}
+int A::j = 1; // once a definition is made, the compiler wont allow another definition.
+What is a copy constructor and why do they take reference parameters?
+copy constructor is a constructor that creates new object by initialising with a object of the same class.
+example: Person p(r) // calls copy contructor
+Person  p = r
+if no copy contructors are there, c++ makes a shallow copy. It copies each field.
+it takes ref parameter because pass by value invokes copy constructor Right which would mean that the copy constructor itself needs a copy constructor
+What is static and dynamic polymorphism?
+static polymorphism is exhibited by overloaded functions.
+dynamic polymorphism is exhibited by late binding Correct (what is late binding)
+binding: connecting function to a function call. Eg. C compilers
+late binding: binding occurs at runtime based on the type of the object.
+ 
+How are virtual functions (dynamic polymorphism) implemented?
+Every class has a virtual table containing the address of its virtual methods. When creating an object, the compiler inserts a pointer variable which points to the VTable of the class.
+Types of inheritance? Explain.
+Single inheritance:  one derived class extends a base class
+multiple inheritance: one derived class extends multiple base classes
+hierarchical : many subclasses inherit a base class
+multilevel : a subclass is a base class for other classes
+ 
+What is function (and operator) overloading? Example
+Function overloading can be of these types:
+1. number of arguments
+2. Type of arguments
+3 presence of ellipsis
+ 4 const or volatile
+void function1(int a)
+void function1(string b)
+int function1(int a)
+void function1(const int a)
+void function1(...)
+ 
+ 
+   13. In order to make pointers more like array. what shd be done.
+const int* q= new int[10] // wrong, const binds to int
+int const* q = new int[10] //wrong , const binds to int
+int* const q  = new int[10] // q++ wont be allowed

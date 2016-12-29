@@ -1,0 +1,3 @@
+when will you use pub-sub
+when there is large number of endpoints, cannot maintain live connections
+

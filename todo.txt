@@ -1,0 +1,14 @@
+1. find all permutations of  a string
+2. quicksort and dutvh divide
+3. jagan's code for twitter challenge
+4. run xmlparse
+5. file operations in cpp
+6. substtr, dist, length, size, find
+7. shortest paths -bfs, djikstra at the END
+8. battleships
+9. Mazes
+
+string str = s.substr(int start, int pos)
+int pos = str.find("another str")
+npos for checking if find is not found
+length of a string = str.length()

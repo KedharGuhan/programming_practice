@@ -1,0 +1,10 @@
+1. construct a balanced binary search tree
+2. reverse a linked kist
+3. next in bst
+4. LRU cache
+5.  arrays
+6. experience based questions for 15 mins
+why intuit
+fizzbuzz
+
+https://leetcode.com/problems/mini-parser/

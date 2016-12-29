@@ -1,0 +1,7 @@
+Write C code to check if an integer is a power of 2 or not in a single line?
+Find number of 1's in a number
+top N
+car parking
+quine
+
+

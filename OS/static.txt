@@ -1,0 +1,27 @@
+1. static storage in data block 
+2. static variables always init to 0 when not explicitly inited
+3. remains in memory when the program is running
+4. can be inited only using constants
+
+C++ references:
+once reference is created, cannot be changed to refer to something else
+references cannot be NULL
+
+int x = 5;
+int &y = x;
+
+Virtual fucntions: type of the objext rather than the type of the pointer
+
+declaration vs definition
+declaration = tells a type or functions exists ; ret type, args
+defintion = allocate storage
+
+storage specifiers in C = auto , extern, static, register
+
+dangling pointer:  points to a invalid memory location
+
+static functions : C functions are global by default
+declaring it static makes restricts the access to the file
+
+i++ vs ++i
+precedence of postfix > prefix

@@ -1,0 +1,142 @@
+Process is a program in execution
+Process has an address space to store data, code, heap and stack variables
+What data is available when the process first loads?
+code and gloabal variables which are the static state
+
+Address space: in memory representation of a process
+-----------------------------
+Vmaxstack grows downward , place the state of the callee on the stack
+|||||
+heap grows upward
+v1:data
+v0:text
+
+Page Table :
+mapping of virtual memory to physical memory
+decoupled from the process and the actual memory
+
+How multiple process share the page table?
+
+
+
+What is virtual memory? Why is it used? Give an example
+Difference between process and thread?
+
+What is address translation? Give an example
+What is a deadlock? How to avoid it? Avoidance vs prevention?
+What are the necessary conditions for a deadlock to happen?
+Types of locks?
+Semaphores vs mutex?
+What is a segmentation fault?
+What is a page fault? How is it handled?
+What is an interrupt handler? Give an example of an interrupt handler
+How do thread context switches happen?
+ 
+    What is virtual memory? Why is it used? Give an example  
+    Virtual memory is a memory management technique. It maps memory address used by a       program to physical address.
+    It separates logical memory and physical memory.
+    Virtual memory supports programs that require more memory than physical memory.
+    Virtual memory the task of programming easier, the programmer need not worry about the amount of physical memory available. 
+    A program is not constrained by the available physical memory.
+    It also gives the ability to execute programs which are completely not in memory.      
+
+    Difference between process and thread?  
+    Process is a program in execution.
+    A process has an address space consisting of address mappings for its code, data and files.
+    It has an execution context consisting of heap, values of the registers, stack pointer, Program counter.
+    This information is represented as a PCB.
+
+    Threads is an unit of execution. They consist of a thread ID, Program counter, register set and stack.
+    A program counter contains the index of the next instruction.
+    Each time there is a function call, we get a stack frame. 
+    A stack frame contians the return address, input arguments and local variables of the function. 
+    stack pointer gives the top of the stack
+    It shares with other threads in the process its code, data and files/ os resources.
+    Threads would be executing different instruction, handle different input.
+    
+    Process creation is resource intensive. 
+    Benefits of using Threads: more responsive, resource sharing, scalbility,more economical to create and context switch threads
+	 context switching is faster between threads and communication between threads is faster since there is no overhead of IPC.
+
+    Synchronising among processes is more costly because of inter process communication.
+    In threads, they have a shared variable in the same address space and is not as costly as in processes.
+        
+    What is address translation? Give an example  
+    Adress translation is to translate a logical address to physical address
+    In paging based memory managment systems, Page tables are used for address translation.
+    Page tables are kept in main memory and pointer to the page table is kept in PTBR
+    Physical memory is broken down to fixed size blocks called frames. The logical memory is also broken to the same size blocks called         pages. Every address has two parts: page number and a offset.
+    Page table is indexed by page number and maps to the base address in the physical memory.
+    Eg: A process has 4 pages , page0, page1, page2 and page3
+    The page table for page2 is mapped to frame5. 
+    suppose we want to address an address at offset 6 in page2; the physical address will be address of frame5+ offset.
+
+
+    What is a deadlock? How to avoid it? Avoidance vs prevention?  
+    Deadlock is a con
+
+    What are the necessary conditions for a deadlock to happen?    
+    These are the four conditions
+        mutual exclusion 
+        hold and wait 
+        no pre-emption 
+        circular wait 
+
+    criteria to solve critical section - mututal exclusion, progress, bounded wait
+    Types of locks?  
+    Spin locks - faster if threads are blocked for smaller time period, simple spins/waits on condition, there is no rescheduling overhead 			 involved.
+			It is inefficient if the thread holding the lock has to be preempted
+    blocking locks
+
+    This impl has delays sinc the atomic operations access the memory rather than cache
+    spinlock_lock(lock):x`x`x
+        while(testAndSet(lock)==busy)
+    if the processor is cache coherent and write update, this is better
+    but it has worse performance in write invalidate cache
+    spinlock_lock(lock):
+        while(lock == busy OR testAndSet(lock)==busy)
+    
+    
+    Semaphores vs mutex?  
+    semaphore is an  integer variable, it is accessed by two atomic operations; wait and signal
+    A mutex lock has a boolean var available whose value indicates if the lock is available.
+    A binary semaphore is a mutex.
+    
+    counting Semaphore is used to control access to a resource consisting of finite number of instances.
+    semaphore: number of threads allowed to proceed is the value of the max val of semaphore
+    on init: assigned a positive int value
+    wait:
+        if non zero: decrement and proceeed
+    signal:
+        increment the semaphore
+
+    What is a segmentation fault?  
+    segmentation fault is caused by memory access violation
+ 
+    Priority inversion
+
+    What is a page fault? How is it handled?  
+    Page fault occurs when a process references pages marked as invalid or is not in memory.
+    On a page fault
+    1. OS finds a free frame or evicts it from memory
+    2. Read the desired page from disk
+    3. update page table entry to point to the frame
+    4. change valid bit to v
+    5. restart the instruction which was interrupted by an exception
+
+
+    What is an interrupt handler? Give an example of an interrupt handler
+    An event external to the current process that causes change in normal flow of execution .
+    CPU catches the interrupt and dispatches it to the interrupt handler.
+    OS sets up Interrupt Descriptor table in boot time. hardware finds the interrupt handler by using interrupt number as index to the IDT.
+
+    How do thread context switches happen?  
+    Save all registers, PC and the state to the thread context block
+    choses a new thread to run ; dispatcher keeps a list of threads
+    Loads the state of the new thread in the CPU
+
+    Program for producer consumer problem
+    
+    shared memory access from the book
+    
+ 

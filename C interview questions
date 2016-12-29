@@ -1,0 +1,37 @@
+How to define static members in C
+static members are stored in the static data area
+default initial value of static classes variables is 0 otherwise null.
+static variable can be initailized only once.
+In c it is not necessary to initialize the static variable where as in C++ it is needed
+declaring a function as static in C, acessess to the function are restricted to the file.
+Write a program to reverse words of a string
+ 
+Client Server program
+What is a socket
+Sockets are end point of a communication
+Client:
+-creates a socket using socket function call.
+-Socket(namespace (AF_NET | PF_LOCAL),Communication style, protocol)
+-Configure the server addr - bzero(servaddr) , set the family and port of servaddr, set the ip address of server using inet_pton
+-use connect(sockfd, servaddr, sizeof(servaddr)
+Server:
+-create a socket, only need to specify namepace, communication and protocol
+-configure server address structure, use bzero for servaddress, set the family and port.
+-bind the socket to the server port
+-call listen to turn it into a listening socket
+-accept(listenfd, struct sockaddr*) - start accepting connections. returns a socket for the new connection to take place
+-use select function call to have non-blocking io
+What is the memory requirements of a pointer
+Size of the pointer will be the size required to address a memory location.
+In 64 bit address, it is 2^64 addresable memory.
+To store a 64 bit address, we need 8 bytes.
+size of the pointer will be 8 bytes
+I byte = 8 bits
+IKB = 1024bytes
+1MB = 1024 KB
+1GB = 1024 MB = 2^30
+4 GB = 4 *1024MB = 2^32
+8 GB = 8* 1024MB 
+ 
+ 
+

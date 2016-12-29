@@ -1,0 +1,58 @@
+Intel interview questions:
+1. what is memory leak, how will you dtect it -: memoery not freed correctly, use valgrind
+2. Difference between stack and heap :
+    stack is used for static memory allocation and heap is dynamci memory allocation
+    stack is a memory set aside for a thread of execution, stack is LIFO, during a function call, stack stores the return address, local variables,
+    when the function returns the block of memory in the stack is unused.
+    Heap is a region of memmory , programmer is responsible for malloc and free
+ 
+3. What is the role of compiler, loader, linker, assembler
+    compiler translates preprocessed C code to assembly level
+    assembler translates to assembly langugae to  machine code or obj file. Obj file consists of instruction, data, symbol table, list of unresolved ref
+    linker assigns absolute memory locations and resolves any unresolved ref
+    symbol table: data structure to store the occurence of variable, type checking, determine scope
+    loader loads the prog in memory
+    https://courses.cs.washington.edu/courses/cse378/97au/help/compilation.html    
+
+4. difference between release builds and debug build -> more optimisations in release builds
+
+Projects:
+1. What is OpenMp bin packing,what did u do?
+2. explain hash tree ds
+
+Coding:
+1. code to count the number of nodes in the tree
+2. code to reverse the bits of a 32 bit integer
+3. code to swap two numbers without a temp
+    using addition/sub
+    x = x+y
+    y = x-y
+    x= x-y
+
+    using div /muly
+    x = x*y
+    y = x/y
+    x = x/y
+
+    using XOR
+    x = 0101
+    y = 1100
+
+    x = x xor y => 1001
+    y = y xor x => 1100 xor 1001 => 0101
+    x = x xor y => 1001 xor 0101 => 1100
+
+C++
+1. Whats the difference between inline and macro functions
+2. When would you use inline functions
+    avoid function overhead
+3. When is macro preferred
+        macro is text replacement
+        
+3. What is a template
+4. What is a copy constructor
+5. What are virtual methods
+6. difference between class and struct
+    members of a class are private by def and public by def in struct
+    derived classes are by private in class and public in struct
+    struct can have derived class, constructors, dest, virtual methods (same as class except access specifier) 
